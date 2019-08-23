@@ -1,0 +1,2 @@
+# Rectangle
+training for oop
