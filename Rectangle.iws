@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f9a32b33-fd51-4882-bb6b-790d339a2441" name="Default Changelist" comment="" />
+    <list default="true" id="f9a32b33-fd51-4882-bb6b-790d339a2441" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/Rectangle/Rectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rectangle.ipr" beforeDir="false" afterPath="$PROJECT_DIR$/Rectangle.ipr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Rectangle.iws" beforeDir="false" afterPath="$PROJECT_DIR$/Rectangle.iws" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Rectangle/Library.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Rectangle/LibraryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Rectangle/RectangleTest.java" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,6 +89,13 @@
         </projects_view>
       </state>
     </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -201,7 +214,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1566537476358</updated>
-      <workItem from="1566537475469" duration="409000" />
+      <workItem from="1566537475469" duration="1555000" />
     </task>
     <task id="LOCAL-00001" summary="init commit">
       <created>1566537853214</created>
@@ -210,7 +223,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566537853215</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="project init">
+      <created>1566537996905</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1566537996905</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -230,7 +250,11 @@
   <component name="VcsManagerConfiguration">
     <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
     <MESSAGE value="init commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
+    <MESSAGE value="project init" />
+    <option name="LAST_COMMIT_MESSAGE" value="project init" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="true" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="REARRANGE_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
